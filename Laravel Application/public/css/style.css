@@ -1,0 +1,46 @@
+input[type='file'] {
+    padding: 4px;
+}
+.chain-right:before {
+     content: '';
+     height: 2px;
+     width: 300px;
+     background: #ddd;
+     position: absolute;
+     left: 100%;
+     z-index: -1;
+     top: calc(50% - 1px);
+}
+
+.chain-left:before {
+    content: '';
+    height: 2px;
+    width: 300px;
+    background: #ddd;
+    position: absolute;
+    right: 100%;
+    z-index: -1;
+    top: calc(50% - 1px);
+}
+
+.chain-top:before {
+    content: '';
+    height: 100px;
+    width: 2px;
+    background: #ddd;
+    position: absolute;
+    bottom: 100%;
+    z-index: -1;
+    left: calc(50% - 1px);
+}
+
+.chain-bottom:before {
+    content: '';
+    height: 100px;
+    width: 2px;
+    background: #ddd;
+    position: absolute;
+    bottom: 100%;
+    z-index: -1;
+    left: calc(50% - 1px);
+}
