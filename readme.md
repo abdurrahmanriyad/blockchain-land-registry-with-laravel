@@ -1,6 +1,6 @@
 # Blockchain Land Registry with Laravel
 
-This is a pet project to understand the basic of decentralized application and incorporate with Laravel.
+This is a pet project built on Laravel and Ethereum to understand the basic of decentralized application.
 
 ## Necessary Links
 [MetaMask](https://metamask.io/)  
