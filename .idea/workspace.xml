@@ -1,15 +1,761 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43a7df37-59f2-42e2-874e-8d0b3e6e4289" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/blockchain-land-registry-complete.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blockchain-land-registry-complete.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Laravel Application/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="78">
+                <caret line="3" column="129" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Smart Contract/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Laravel Application/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ansi-align/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ansi-align/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ansi-align/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ansi-align/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ansi-align/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/anymatch/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/app-module-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/app-module-path/test/src/module-a/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/app-module-path/test/src/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/assertion-error/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/async-each-series/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/axios/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bindings/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/boxen/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/browser-stdout/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/browser-sync-client/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/browser-sync-ui/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/browser-sync/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/grunt.html.injection/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/grunt.sass.autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/grunt.sass/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/gulp.browserify/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/gulp.pug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/gulp.ruby.sass/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/gulp.sass/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/gulp.swig/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/gulp.task.sequence/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/html.injection/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/middleware.css.injection/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/proxy.custom-css/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/server.gzipped.assets/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/server.includes/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/server.middleware/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/server/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/webpack.babel/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/webpack.monkey-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/webpack.preact-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/webpack.react-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/webpack.react-transform-hmr/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/webpack.typescript.react/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-recipes/recipes/webpack.typescript/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bs-snippet-injector/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/capture-stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/chai-as-promised/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/chai-bignumber/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/chai/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/check-error/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ci-info/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/cli-boxes/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/configstore/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/connect-logger/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/connect/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/create-error-class/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/crypto-js/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/crypto-random-string/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/deep-eql/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/dev-ip/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/dot-prop/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/easy-extender/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/eazy-logger/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/engine.io/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ethjs-abi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/expand-brackets/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/file-uri-to-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/needle/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/fsevents/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/get-func-name/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/global-dirs/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/growl/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ignore-by-default/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/immutable/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/import-lazy/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-ci/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-hex-prefixed/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-installed-globally/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-npm/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-number-like/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-obj/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-redirect/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/js-sha3/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/keccak/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/klaw/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/latest-version/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/limiter/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/lite-server/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/localtunnel/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/localtunnel/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/localtunnel/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/localtunnel/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/locate-path/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/lodash.isfinite/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/make-dir/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/memorystream/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mitt/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mocha/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mocha/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mocha/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/mocha/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/nodemon/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/nodemon/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/number-to-bn/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/object-copy/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/object-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/openurl/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/original-require/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/package-json/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/pathval/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/portscanner/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/pstree.remy/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/registry-auth-token/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/registry-url/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/require-from-string/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/invalid_main/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/multirepo/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resp-modifier/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/resp-modifier/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/rimraf/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/rx/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/rxjs/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/semver-diff/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/send/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/serve-index/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/serve-index/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/serve-index/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/serve-index/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/server-destroy/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon-util/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/socket.io/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/socket.io/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/socket.io/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/socket.io/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/solc/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/stream-throttle/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/strip-hex-prefix/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/symbol-observable/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/term-size/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/tfunk/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/to-object-path/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/toidentifier/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/touch/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/truffle-blockchain-utils/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/truffle-contract-schema/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/truffle-contract/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/truffle-error/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/truffle/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/type-detect/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/undefsafe/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/undefsafe/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/unique-string/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/universalify/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/unset-value/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/unzip-response/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/update-notifier/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/update-notifier/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/update-notifier/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/update-notifier/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/utf8/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/web3/bower/crypto-js/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/web3/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/web3/node_modules/crypto-js/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/web3/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/widest-line/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/widest-line/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/widest-line/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/widest-line/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/widest-line/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/write-file-atomic/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/xdg-basedir/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/xhr2/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/xmlhttprequest/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/Smart Contract/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="39" />
+    <option name="y" value="23" />
+    <option name="width" value="1241" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blockchain-land-registry-complete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blockchain-land-registry-complete" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a7df37-59f2-42e2-874e-8d0b3e6e4289" name="Default" comment="" />
+      <created>1570497011852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570497011852</updated>
+      <workItem from="1570497014084" duration="577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="577000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="39" y="23" width="1241" height="777" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32924962" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24937448" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="129" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
