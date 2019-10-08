@@ -1,6 +1,7 @@
 # Blockchain Land Registry with Laravel
 
 This is a pet project built on Laravel and Ethereum to understand the basic of decentralized application.
+I wrote a tutorial on this [here](https://dev.to/abdurrahmanriyad/blockchain-in-practice-with-land-registry-system-in-laravel-cjj) 
 
 ## Necessary Links
 [MetaMask](https://metamask.io/)  
